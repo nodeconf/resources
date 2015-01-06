@@ -1,4 +1,3 @@
-resources
-=========
+# Resources 
 
-Resources (graphics, logos, etc.) for NodeConf organisers and press
+Resources (graphics, logos, etc.) for NodeConf and NodeConf One-Shot organisers and press. 
